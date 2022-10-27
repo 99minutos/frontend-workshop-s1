@@ -1,4 +1,4 @@
-# Welcome To Frontend Workshop
+# Hola Jess!!
 
 ## This is just a example
 
@@ -14,4 +14,5 @@ git init
 git status
 git add -A
 git commit -m "mensaje"
+git checkout {hash o rama}
 ```
