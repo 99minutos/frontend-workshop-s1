@@ -14,4 +14,7 @@ git init
 git status
 git add -A
 git commit -m "mensaje"
+git branch branchName
+git checkout -b branchName
+git checkout branchName
 ```
