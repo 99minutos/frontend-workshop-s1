@@ -16,3 +16,5 @@ git add -A
 git commit -m "mensaje"
 git checkout {hash o rama}
 ```
+
+investigar como hacer git merge
