@@ -3,4 +3,24 @@ html, body {
   height: 100%;
   margin: 0;
   font: 11px "Lucida Grande", Arial, Sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+
+section {
+  display: flex;
+  flex: 1;
+}
+
+section div {
+  display: flex;
+  flex: 1;
+}
+
+header {
+  background-color: red;
+}
+
+footer {
+  background-color: brown;
 }
